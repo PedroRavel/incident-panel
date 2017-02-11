@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["IncidentCtrl"],"mappings":";;;;;;;;AAAQA,kB,oBAAAA,Y;;;2BAGNA,Y","file":"module.js","sourcesContent":["import {IncidentCtrl} from './incident_ctrl.js';\n\nexport {\n  IncidentCtrl as PanelCtrl\n};\n"]}
